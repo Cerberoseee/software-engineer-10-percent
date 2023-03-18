@@ -1,0 +1,11 @@
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe.config
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.pdb
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.AssemblyReference.cache
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.SuggestedBindingRedirects.cache
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form1.resources
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Properties.Resources.resources
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.GenerateResource.cache
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.CoreCompileInputs.cache
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.exe
+E:\Learning\SoftwareEngineer\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.pdb
