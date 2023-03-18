@@ -1,6 +1,6 @@
 ﻿# software-engineer-10-percent
 
-Requirement 4 Links:
+Requirement 6 Links:
 
 Figma design: https://www.figma.com/file/AUjgYku31DF7n91AVyLo7a/Ticket-Vendor-Machine?node-id=0%3A1&t=4dMDEqeJqf7G0BSv-1
 
